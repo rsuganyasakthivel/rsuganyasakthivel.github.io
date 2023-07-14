@@ -14,9 +14,9 @@
   [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
     
   [View code](https://github.com/rsuganyasakthivel/Data-Science-Projects/tree/main/Demand_Forecasting-Retail_Analysis)
+  
 ---
 ### Data Preparation
-
 * This Project has a sample program explaining
 
 - How could we prepare the data which is unstructured. Instead of doing it manually, how we could do it with pandas.
@@ -26,4 +26,20 @@
   
   [View code](https://github.com/rsuganyasakthivel/Data-Preparation)
 
+---
+### Binary classification using Logistic Regression
+* Logistic regression with California housing dataset
+  
+  [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+    
+  [View code](https://github.com/rsuganyasakthivel/Classification/tree/main/Binary%20classification%20using%20Logistic%20Regression)
+  
+---
+### Heart-Disease-Prediction
+* This project is for making prediction on whether a person will suffer from the Heart disease or not. The dataset is from 'Kaggle'. The dataset contains 14     columns, including the target column, which indicates the presence or absence of heart disease.
+  
+  [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+  
+  [View code](https://github.com/rsuganyasakthivel/Heart-Disease-Prediction/tree/main)
+  
 ---
