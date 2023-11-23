@@ -8,7 +8,7 @@
   [View code](https://github.com/rsuganyasakthivel/Data-Science-Projects/tree/main/Time%20series%20Analysis%20with%20Air%20quality%20dataset)
 
 ---
-### Demand_Forecasting-Retail_Analysis
+### Demand Forecasting-Retail Analysis
 * This project is regarding data analysis, which uses 'Walmart Retail Sales' dataset from Kaggle.
   
   [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
