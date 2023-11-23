@@ -1,13 +1,5 @@
 ## Data Science Projects
 ---
-### Classification
-* This folder contains codes for different classification algorithms, GridSearchCV, PCA etc.
-
-  [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
-
-  [View code](https://github.com/rsuganyasakthivel/Classification)
-
----
 ### Time series Analysis with Air quality dataset
 * This project identifies patterns and trends in air pollution levels, by analyzing the air quality data over a period of time. This can help us to understand the causes of air pollution and take necessary measures to reduce it.
   
@@ -35,13 +27,13 @@
   [View code](https://github.com/rsuganyasakthivel/Data-Preparation)
 
 ---
-### Binary classification using Logistic Regression
-* Logistic regression with California housing dataset
-  
+### Classification
+* This folder contains codes for different classification algorithms, GridSearchCV, PCA etc.
+
   [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
-    
-  [View code](https://github.com/rsuganyasakthivel/Classification/tree/main/Binary%20classification%20using%20Logistic%20Regression)
-  
+
+  [View folder](https://github.com/rsuganyasakthivel/Classification)
+
 ---
 ### Heart-Disease-Prediction
 * This project is for making prediction on whether a person will suffer from the Heart disease or not. The dataset is from 'Kaggle'. The dataset contains 14     columns, including the target column, which indicates the presence or absence of heart disease.
