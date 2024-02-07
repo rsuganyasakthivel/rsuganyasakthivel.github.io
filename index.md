@@ -16,6 +16,14 @@
   [View code](https://github.com/rsuganyasakthivel/Data-Science-Projects/tree/main/Demand_Forecasting-Retail_Analysis)
   
 ---
+### Deep Learning
+* This folder includes ANN, CNN, RNN projects.
+  - Customer Churn Prediction using ANN.
+
+    [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+    [View code](https://github.com/rsuganyasakthivel/Deep-Learning/tree/main/Artificial%20Neural%20Network)
+---
 ### Data Preparation
 * This Project has a sample program explaining
 
