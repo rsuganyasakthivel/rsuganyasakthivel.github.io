@@ -23,6 +23,12 @@
     [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
     [View code](https://github.com/rsuganyasakthivel/Deep-Learning/tree/main/Artificial%20Neural%20Network)
+
+  - Mango Leaf Disease Classification using CNN.
+
+    [![](https://img.shields.io/badge/Tensorflow-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+    [View code](https://github.com/rsuganyasakthivel/Deep-Learning/tree/main/Convolutional%20Neural%20Network)
 ---
 ### Data Preparation
 * This Project has a sample program explaining
