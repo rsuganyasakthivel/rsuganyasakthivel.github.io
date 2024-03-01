@@ -1,5 +1,20 @@
 ## Data Science Projects
 
+### Deep Learning
+* This folder includes ANN, CNN, RNN projects.
+  - Customer Churn Prediction using ANN.
+
+    [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+    [View code](https://github.com/rsuganyasakthivel/Deep-Learning/tree/main/Artificial%20Neural%20Network)
+
+  - Mango Leaf Disease Classification using CNN.
+
+    [![](https://img.shields.io/badge/Tensorflow-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+ 
+    [View code](https://github.com/rsuganyasakthivel/Deep-Learning/tree/main/Convolutional%20Neural%20Network)
+
+---
 ### Time series Analysis with Air quality dataset
 * This project identifies patterns and trends in air pollution levels, by analyzing the air quality data over a period of time. This can help us to understand the causes of air pollution and take necessary measures to reduce it.
   
@@ -15,21 +30,6 @@
     
   [View code](https://github.com/rsuganyasakthivel/Data-Science-Projects/tree/main/Demand_Forecasting-Retail_Analysis)
   
----
-### Deep Learning
-* This folder includes ANN, CNN, RNN projects.
-  - Customer Churn Prediction using ANN.
-
-    [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
-
-    [View code](https://github.com/rsuganyasakthivel/Deep-Learning/tree/main/Artificial%20Neural%20Network)
-
-  - Mango Leaf Disease Classification using CNN.
-
-    [![](https://img.shields.io/badge/Tensorflow-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
- 
-    [View code](https://github.com/rsuganyasakthivel/Deep-Learning/tree/main/Convolutional%20Neural%20Network)
-
 ---
 ### Data Preparation
 * This Project has a sample program explaining
