@@ -21,7 +21,7 @@
 
   - Mango Leaf Disease Classification using CNN.
 
-    [![](https://img.shields.io/badge/Tensorflow-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+    [![](https://img.shields.io/badge/Tensorflow-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/ReactJS-white?logo=ReactJS)](#) [![](https://img.shields.io/badge/FastAPI-white?logo=FastAPI)](#)
  
     [View code](https://github.com/rsuganyasakthivel/Deep-Learning/tree/main/Convolutional%20Neural%20Network)
 
