@@ -1,5 +1,16 @@
 ## Data Science Projects
 
+### Chatbot
+* #### Chatbot Development for Food Delivery System
+  - Designed and implemented a chatbot using Google Dialogflow to facilitate seamless interactions with users in the food delivery system.
+  - Developed backend functionalities using Python and FastAPI, ensuring efficient data processing and management.
+  - Integrated MySQL database for storing and retrieving relevant information, enhancing the chatbot's functionality.
+
+    [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/DialogFlow-white?logo=DialogFlow)](#) [![](https://img.shields.io/badge/FastAPI-white?logo=FastAPI)](#) [![](https://img.shields.io/badge/MySQL-white?logo=MySQL)](#)
+
+    [View code](https://github.com/rsuganyasakthivel/Chatbot)
+
+---
 ### Deep Learning
 * This folder includes ANN, CNN, RNN projects.
   - Customer Churn Prediction using ANN.
