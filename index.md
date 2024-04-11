@@ -9,10 +9,6 @@ Web Text QA Tool is a simple question-answering application built using LangChai
 - **Question Input**: Users can type their questions into the interface.
 - **Answer Retrieval**: Utilizing LangChain and embeddings, the application attempts to find answers within the provided URLs.
 - **Error Handling**: If the answer is found, it displays the answer. If not, it returns 'No answer found'.
-
-##### To run the Streamlit app:
-- streamlit run main.py
-- Note: Create a `.env` file in your project's root directory with API keys in `KEY=VALUE` format.
   
 ##### Technologies Used
 - LangChain
