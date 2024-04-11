@@ -13,11 +13,13 @@ Web Text QA Tool is a simple question-answering application built using LangChai
 ##### To run the Streamlit app:
 - streamlit run main.py
 - Note: Create a `.env` file in your project's root directory with API keys in `KEY=VALUE` format.
+  
 ##### Technologies Used
 - LangChain
 - Streamlit
 - GooglePalm
 - HuggingFaceInstructEmbeddings.
+  
 ##### Sample Result
 ![Web Text QA](https://github.com/rsuganyasakthivel/Web-Text-QA-Tool-using-Langchain/blob/main/Sample%20Result.PNG?raw=true)
 
