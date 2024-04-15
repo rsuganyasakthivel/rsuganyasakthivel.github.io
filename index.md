@@ -1,5 +1,39 @@
 ## Data Science Projects
 
+### Home Remedy Helper using Langchain
+This is a Streamlit web application designed to assist users with home remedies. It provides a simple interface for asking questions about health issues and receiving relevant answers based on a predefined dataset.
+
+##### Usage
+To use the application, follow these steps:
+
+1. **Run the Application**: Execute the script using Streamlit (`streamlit run <script_name>`).
+2. **Input Question**: Enter your health-related question in the provided text input field.
+3. **View Answer**: After submitting your question, the application will display the corresponding answer based on the dataset.
+
+ You need to provide a CSV file containing the dataset of home remedies. https://www.kaggle.com/datasets/shivanshmittal22/home-remedies
+ Use only 'Health issue' and 'Home remedy' columns.
+
+##### Functionality
+The application utilizes the following components:
+
+- Question-Answer Chain: Implements a question-answer mechanism based on a predefined dataset.
+- Vector Database Creation: Builds a vector database for efficient retrieval of relevant information.
+- Streamlit Interface: Provides a user-friendly interface for interaction.
+
+##### Technologies Used
+- LangChain
+- Streamlit
+- GooglePalm
+- HuggingFaceInstructEmbeddings.
+  
+##### Sample Result
+![Home-Remedy-Helper](https://github.com/rsuganyasakthivel/Home-Remedy-Helper-using-Langchain/blob/main/Capture.PNG)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#) [![](https://img.shields.io/badge/LangChain-white?logo=LangChain)](#) [![](https://img.shields.io/badge/HuggingFace-white?logo=HuggingFace)](#)
+
+[View code](https://github.com/rsuganyasakthivel/Home-Remedy-Helper-using-Langchain)
+
+---
 ### Web Text QA Tool using Langchain
 
 Web Text QA Tool is a simple question-answering application built using LangChain and Streamlit. This application leverages GooglePalm LLM and HuggingFaceInstructEmbeddings for enhanced performance.
@@ -18,7 +52,7 @@ Web Text QA Tool is a simple question-answering application built using LangChai
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#) [![](https://img.shields.io/badge/LangChain-white?logo=LangChain)](#)
 
-[View code](https://github.com/rsuganyasakthivel/Chatbot)
+[View code](https://github.com/rsuganyasakthivel/Web-Text-QA-Tool-using-Langchain)
 
 ---
 ### Chatbot
@@ -29,7 +63,7 @@ Web Text QA Tool is a simple question-answering application built using LangChai
 
     [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/DialogFlow-white?logo=DialogFlow)](#) [![](https://img.shields.io/badge/FastAPI-white?logo=FastAPI)](#) [![](https://img.shields.io/badge/MySQL-white?logo=MySQL)](#)
 
-[View code](https://github.com/rsuganyasakthivel/Web-Text-QA-Tool-using-Langchain)
+[View code](https://github.com/rsuganyasakthivel/Chatbot)
 
 ---
 ### Deep Learning
