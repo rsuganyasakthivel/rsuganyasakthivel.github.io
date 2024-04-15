@@ -10,6 +10,7 @@ This is a Streamlit web application designed to assist users with home remedies.
 - HuggingFaceInstructEmbeddings.
   
 ##### Sample Result
+
 ![Home-Remedy-Helper](https://github.com/rsuganyasakthivel/Home-Remedy-Helper-using-Langchain/blob/main/Capture.PNG)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#) [![](https://img.shields.io/badge/LangChain-white?logo=LangChain)](#) [![](https://img.shields.io/badge/HuggingFace-white?logo=HuggingFace)](#)
