@@ -10,12 +10,11 @@ This is a Streamlit web application designed to assist users with home remedies.
 - HuggingFaceInstructEmbeddings.
   
 ##### Sample Result
-
-![Home-Remedy-Helper](https://github.com/rsuganyasakthivel/Home-Remedy-Helper-using-Langchain/blob/main/Capture.PNG)
+[!(https://github.com/rsuganyasakthivel/LangChain/blob/main/Home-Remedy-Helper-using-Langchain-main/Home-Remedy-Helper-using-Langchain-main/Capture.PNG)]
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#) [![](https://img.shields.io/badge/LangChain-white?logo=LangChain)](#) [![](https://img.shields.io/badge/HuggingFace-white?logo=HuggingFace)](#)
 
-[View code](https://github.com/rsuganyasakthivel/Home-Remedy-Helper-using-Langchain)
+[View code](https://github.com/rsuganyasakthivel/LangChain/tree/main/Home-Remedy-Helper-using-Langchain-main/Home-Remedy-Helper-using-Langchain-main)
 
 ---
 ### Web Text QA Tool using Langchain
@@ -29,11 +28,11 @@ Web Text QA Tool is a simple question-answering application built using LangChai
 - HuggingFaceInstructEmbeddings.
   
 ##### Sample Result
-![Web Text QA](https://github.com/rsuganyasakthivel/Web-Text-QA-Tool-using-Langchain/blob/main/Sample%20Result.PNG?raw=true)
+![Web Text QA](https://github.com/rsuganyasakthivel/LangChain/blob/main/Web-Text-QA-Tool-using-Langchain-main/Web-Text-QA-Tool-using-Langchain-main/Sample%20Result.PNG)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#) [![](https://img.shields.io/badge/LangChain-white?logo=LangChain)](#)
 
-[View code](https://github.com/rsuganyasakthivel/Web-Text-QA-Tool-using-Langchain)
+[View code](Home-Remedy-Helper-using-Langchain-main/Home-Remedy-Helper-using-Langchain-main)
 
 ---
 ### Chatbot
