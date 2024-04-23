@@ -1,5 +1,22 @@
 ## Data Science Projects
 
+### Natural Language MySQL Assistant for Retail Stores
+This project empowers retail store managers to unlock the power of their MySQL database with natural language!
+
+##### Technologies Used
+- Langchain(SQLDatabaseChain)
+- Streamlit
+- GooglePalm
+- HuggingFaceInstructEmbeddings.
+  
+##### Sample Result
+![Natural Language MySQL Assistant for Retail Stores](https://github.com/rsuganyasakthivel/LangChain/blob/main/Natural%20Language%20MySQL%20Assistant%20for%20Retail%20Stores/Sample%20output.PNG)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#) [![](https://img.shields.io/badge/LangChain-white?logo=LangChain)](#) [![](https://img.shields.io/badge/HuggingFace-white?logo=HuggingFace)](#)
+
+[View code](https://github.com/rsuganyasakthivel/LangChain/tree/main/Natural%20Language%20MySQL%20Assistant%20for%20Retail%20Stores)
+
+---
 ### Home Remedy Helper using Langchain
 This is a Streamlit web application designed to assist users with home remedies. It provides a simple interface for asking questions about health issues and receiving relevant answers based on a predefined dataset.
 
