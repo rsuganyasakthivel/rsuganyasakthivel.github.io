@@ -1,5 +1,22 @@
 ## Data Science Projects
 
+### LLM-based College Database Q&A App using Langchain
+Developed an end-to-end question and answer application utilizing Language Models (LLMs) and Langchain framework for seamless interaction with a MySQL database. The application serves as a comprehensive tool for querying college-related information with natural language queries.
+
+##### Technologies Used
+- UI: Streamlit
+- LLM: Google Palm LLM model
+- Embeddings: Hugging Face
+- Framework: Langchain
+  
+##### Sample Result
+![College Database Q&A App using Langchain](https://github.com/rsuganyasakthivel/LangChain/blob/main/LLM-based%20College%20Database%20Q%26A%20App%20using%20Langchain/Capture.PNG)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#) [![](https://img.shields.io/badge/LangChain-white?logo=LangChain)](#) [![](https://img.shields.io/badge/HuggingFace-white?logo=HuggingFace)](#)
+
+[View code](https://github.com/rsuganyasakthivel/LangChain/tree/main/LLM-based%20College%20Database%20Q%26A%20App%20using%20Langchain)
+
+---
 ### Natural Language MySQL Assistant for Retail Stores
 This project empowers retail store managers to unlock the power of their MySQL database with natural language!
 
